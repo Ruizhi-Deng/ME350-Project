@@ -17,3 +17,11 @@ This folder contains the mechanical design files for the project, i.e. SolidWork
 Please name the files in English. The name of the file should be descriptive about the part or assembly, and only contains letters, numbers, blanks, and underscores.
 
 ## Mechanical Specifications
+
+- 爬升速度 < 10cm/s
+
+1. 轮子
+    - 轮子外径：68mm
+    - 轮子宽度：26mm
+    - 轮子材质：硅胶
+
