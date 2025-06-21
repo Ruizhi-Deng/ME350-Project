@@ -25,3 +25,13 @@ Please name the files in English. The name of the file should be descriptive abo
     - 轮子宽度：26mm
     - 轮子材质：硅胶
 
+2. 电机
+    - 型号：JGY-370
+    - 电压：12V
+    - 转速: 30rpm
+
+3. PC方管（框架）
+    - ARM：10mm x 10mm x 1.5mm (厚度)
+    - FRAME：10mm x 15mm x 1.5mm (厚度)
+
+

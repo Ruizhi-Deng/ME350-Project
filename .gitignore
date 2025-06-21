@@ -35,6 +35,6 @@
 # ---> SolidWorks
 # SolidWorks files cache
 ~$*
+# 3D Print auxiliary files
 ./Mechanical/Manufacture
 
-Code/Balancer/.vscode
